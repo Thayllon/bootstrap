@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font: 20px arial, sans-serif;
+}
+
+.navbar {
+  background-color: #688;
+}
+
+.nossa-equipe {
+  background-color: rgb(103, 136, 76);
+}
+
+.parceiros {
+  /* background-color: rgb(221, 221, 221); */
+  background-color: #688;
+  color: white;
+}
+.margin {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.bg-footer {
+}
+
+.bg-footer a {
+  text-decoration: none;
+  color: black;
+}
